@@ -1,0 +1,10 @@
+body {
+  background-color: #E6FFFF;
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+}
+.btn {
+ background-color: #FF70B8; 
+}
+
+
